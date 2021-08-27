@@ -3,6 +3,10 @@ A JS Library to enable local HTML includes to allow for component driven HTML co
 
 This library also supports nested includes, as well as CSS and JS interactions with local includes.
 
+## Demo
+
+Demo site can be found here: https://jurikiin.com/local-includes/
+
 ## Integration
 
 1. Include the following script at the end of the body in your top level HTML file.
@@ -11,7 +15,7 @@ This library also supports nested includes, as well as CSS and JS interactions w
 <script type="text/javascript" src="https://jurikiin.com/local-inlcludes/local-includes.js"></script>
 ```
 
-2. Define your local included snippet. (ex. /components/example.html)
+2. Define your local included snippet. (ex. components/example.html)
 
 ```
 <div>
@@ -23,7 +27,7 @@ This library also supports nested includes, as well as CSS and JS interactions w
 
 ```
 <body>
-  <ks-include data='/components/example.html'></ks-include>
+  <ks-include data='components/example.html'></ks-include>
 </body>
 ```
 
