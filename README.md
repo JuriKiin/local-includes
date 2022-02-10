@@ -12,7 +12,7 @@ Demo site can be found here: https://jurikiin.com/local-includes/
 1. Include the following script at the end of the body in your top level HTML file.
 
 ```
-<script type="text/javascript" src="https://jurikiin.com/local-inlcludes/local-includes.js"></script>
+<script type="text/javascript" src="https://jurikiin.com/local-includes/local-includes.js"></script>
 ```
 
 2. Define your local included snippet. (ex. components/example.html)
