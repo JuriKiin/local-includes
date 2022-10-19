@@ -27,7 +27,7 @@ Demo site can be found here: https://jurikiin.com/local-includes/
 
 ```
 <body>
-  <ks-include data='components/example.html'></ks-include>
+  <ks-include path='components/example.html'></ks-include>
 </body>
 ```
 
