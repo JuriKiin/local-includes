@@ -34,9 +34,8 @@ Demo site can be found here: https://jurikiin.com/local-includes/
 4. That's it!
 
 
-## Support the Library
+### Support this Library
+Support this project with a ⭐
 
-Have suggestions or issues? Feel free to create an issue, or email support@jurikiin.com.
-
-Enjoy the library? Please reach out to support@jurikiin.com to learn how you can donate!
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jurikiin)
 
